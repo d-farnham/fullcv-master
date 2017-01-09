@@ -1,0 +1,12 @@
+*.aux
+*.log
+*.out
+*.kilepr
+*.bbl
+*.blg
+*.xml
+*.bcf
+*.backup
+.DS_Store
+.Rhistory
+*.bak

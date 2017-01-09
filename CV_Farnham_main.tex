@@ -1,0 +1,28 @@
+\input{header.tex} % Preamble in separate file
+\usepackage{enumitem}
+
+\begin{document}
+\makecvtitle
+\vspace*{-13mm}
+
+\input{education.tex} % education section
+%\input{interests.tex} % research interestes
+\input{experience.tex} % experience
+%\input{skills.tex} % skills (language and computer)
+
+
+% Publications
+\nocite{*} % count all pubs as cited
+\printbibheading
+\printbibliography[heading=article,resetnumbers = TRUE,type=article]
+\printbibliography[heading=inproceedings,resetnumbers,type=inproceedings]
+\printbibliography[heading=misc,resetnumbers,type=misc]
+
+\input{talks.tex} % invited talks and panels
+\input{awards.tex} % honors and awards
+
+\vfill
+Last updated on \today
+
+%---------END-----------------------
+\end{document}
