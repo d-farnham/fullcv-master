@@ -66,6 +66,23 @@
   \def\firstinit{#3}}
 \boldname{}{}{}
 
+% Patch new definitions
+\renewcommand{\mkbibnamegiven}[1]{%
+  \makename{\currname}{#1}%
+  \makename{\findname}{\firstname}%
+  \makename{\findinit}{\firstinit}%
+  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}}%
+    or test {\ifdefequal{\currname}{\findinit}} }%
+  {\mkbibbold{#1}}{#1}%
+}
+
+\renewcommand{\mkbibnamefamily}[1]{%
+  \makename{\currname}{#1}%
+  \makename{\findname}{\lastname}%
+  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}} }%
+  {\mkbibbold{#1}}{#1}%
+}
+
 
 \addbibresource{MyPapers.bib}
 
