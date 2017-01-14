@@ -49,47 +49,25 @@
 \defbibheading{inproceedings}{\subsection*{Conference Presentations and Papers}}
 
 
-% make author bold
-\def\makenamesetup{%
-  \def\bibnamedelima{~}%
-  \def\bibnamedelimb{ }%
-  \def\bibnamedelimc{ }%
-  \def\bibnamedelimd{ }%
-  \def\bibnamedelimi{ }%
-  \def\bibinitperiod{.}%
-  \def\bibinitdelim{~}%
-  \def\bibinithyphendelim{.-}}
-\newcommand*{\makename}[2]{\begingroup\makenamesetup\xdef#1{#2}\endgroup}
-
-\newcommand*{\boldname}[3]{%
-  \def\lastname{#1}%
-  \def\firstname{#2}%
-  \def\firstinit{#3}}
-\boldname{}{}{}
-
-% Patch new definitions
-\renewcommand{\mkbibnamegiven}[1]{%
-  \makename{\currname}{#1}%
-  \makename{\findname}{\firstname}%
-  \makename{\findinit}{\firstinit}%
-  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}}%
-    or test {\ifdefequal{\currname}{\findinit}} }%
-  {\mkbibbold{#1}}{#1}%
+\newcommand{\makeauthorbold}[1]{%
+\DeclareNameFormat{author}{%
+  \ifnumequal{\value{listcount}}{1}
+    {\ifnumequal{\value{liststop}}{1}
+      {\expandafter\ifstrequal{##1}{#1}{\textbf{##1\addcomma\addspace ##4\addcomma\isdot}}{##1\addcomma\addspace ##4\addcomma\isdot}}
+      {\expandafter\ifstrequal{##1}{#1}{\textbf{##1\addcomma\addspace ##4}}{##1\addcomma\addspace ##4}}}
+    {\ifnumless{\value{listcount}}{\value{liststop}}
+      {\expandafter\ifstrequal{##1}{#1}{\textbf{\addcomma\addspace ##1\addcomma\addspace ##4}}{\addcomma\addspace ##1\addcomma\addspace ##4}}
+      {\expandafter\ifstrequal{##1}{#1}{\textbf{\addcomma\addspace ##1\addcomma\addspace ##4\addcomma\isdot}}{\addcomma\addspace ##1\addcomma\addspace ##4\addcomma\isdot}}%
+    }%
+}%
 }
-
-\renewcommand{\mkbibnamefamily}[1]{%
-  \makename{\currname}{#1}%
-  \makename{\findname}{\lastname}%
-  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}} }%
-  {\mkbibbold{#1}}{#1}%
-}
-
+\makeauthorbold{Farnham}
 
 \addbibresource{MyPapers.bib}
 
 %------------------------ personal data -------------------------------------
 
-\name{David J.}{Farnham}
+\firstname{David J.}\familyname{Farnham}
 %\title{Curriculum Vitae}
 \address{654 W 161st St}{New York, NY 10032}{} % optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
 
