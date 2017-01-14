@@ -47,6 +47,26 @@
 \defbibheading{misc}{\subsection*{Non-Peer Reviewed Papers}}
 \defbibheading{inproceedings}{\subsection*{Conference Presentations and Papers}}
 
+
+% make author bold
+\def\makenamesetup{%
+  \def\bibnamedelima{~}%
+  \def\bibnamedelimb{ }%
+  \def\bibnamedelimc{ }%
+  \def\bibnamedelimd{ }%
+  \def\bibnamedelimi{ }%
+  \def\bibinitperiod{.}%
+  \def\bibinitdelim{~}%
+  \def\bibinithyphendelim{.-}}
+\newcommand*{\makename}[2]{\begingroup\makenamesetup\xdef#1{#2}\endgroup}
+
+\newcommand*{\boldname}[3]{%
+  \def\lastname{#1}%
+  \def\firstname{#2}%
+  \def\firstinit{#3}}
+\boldname{}{}{}
+
+
 \addbibresource{MyPapers.bib}
 
 %------------------------ personal data -------------------------------------
