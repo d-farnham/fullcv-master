@@ -1,0 +1,810 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{ydnt/global/}
+    \entry{Farnham2017}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Water Resources Research}
+      \field{title}{{Regional intense precipitation events: robust inference from credibly simulated GCM state variables (in prep)}}
+    \endentry
+    \entry{Farnham2017c}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+        {{hash=bae1e07b16578309bf9c3c2effc3f3e8}{%
+           family={Kwon},
+           family_i={K\bibinitperiod},
+           given={Hyun-Han},
+           given_i={H\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d5e3d237471dbaae8e9116fdabffa10}
+      \strng{fullhash}{4d5e3d237471dbaae8e9116fdabffa10}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Long-term Trends, Decadal Variability, and Teleconnections associated with Sub-weekly Precipitation Extremes from a Multicentury Record (in prep)}}
+    \endentry
+    \entry{Farnham2017b}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
+           family={Steinschneider},
+           family_i={S\bibinitperiod},
+           given={Scott},
+           given_i={S\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{701f2cefc47f5cacedb06ce18a5b5c61}
+      \strng{fullhash}{701f2cefc47f5cacedb06ce18a5b5c61}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Is Anthropogenic Warming Changing El Nino's effect on North America's Hydroclimate? (in prep)}}
+    \endentry
+    \entry{Kim2017}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=6e11d2f30b614c6da83fb0eefb87b55a}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Jin-Young},
+           given_i={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=6a2dd8c9285ad7074ea6eb89f6d43922}{%
+           family={So},
+           family_i={S\bibinitperiod},
+           given={Byung-jin},
+           given_i={B\bibinithyphendelim j\bibinitperiod}}}%
+        {{hash=86d3ee305831d79388a8ab21ff1497fa}{%
+           family={Kwon},
+           family_i={K\bibinitperiod},
+           given={Hyuan-Han},
+           given_i={H\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{4216c2c89c8d5a6fae1ff4d4f62db7bb}
+      \strng{fullhash}{46f6d838dcb3bcb2ccd15525145c2326}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Hydrological Processes}
+      \field{title}{{Estimation of Return Period and Its Uncertainty for the 2013-2015 drought in the Han River watershed in South Korea (under review)}}
+    \endentry
+    \entry{Yuan2017}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=ce5bd6e4a0f4976ce71f36577832d54a}{%
+           family={Yuan},
+           family_i={Y\bibinitperiod},
+           given={Shengxi},
+           given_i={S\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+        {{hash=5d2ade173546d8119acdd75b8853d6bd}{%
+           family={Modi},
+           family_i={M\bibinitperiod},
+           given={Vijay},
+           given_i={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{320ab702bf822511f418b8cbb74f4fb5}
+      \strng{fullhash}{ad06f7dcb198b12f68bb430388eed46e}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (in prep)}}
+    \endentry
+    \entry{panel2}{panels}{}
+      \list{location}{1}{%
+        {George Washington University, Washington DC, USA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{2016 Planet Forward Sustainable Cities Summit: Rethinking Water: Solutions for a 21st Century Infrastructure}}
+      \field{year}{2016}
+    \endentry
+    \entry{Doss-Gollin2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \strng{namehash}{03fae2b4e489958d7cc6516055ea402e}
+      \strng{fullhash}{03fae2b4e489958d7cc6516055ea402e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AGU Fall Meeting}
+      \field{title}{{Global-Local Interactions Modulate Tropical Moisture Exports to the Ohio River Basin}}
+      \field{year}{2016}
+    \endentry
+    \entry{panel1}{panels}{}
+      \list{location}{1}{%
+        {Columbia Univeristy, New York, NY, USA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{Earth Institue Sustainable Development Seminar Series: The Monster El Niño Of 2015-16: What Was Expected? And, What Was Done?}}
+      \field{year}{2016}
+    \endentry
+    \entry{Farnham2016a}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Columbia University}%
+      }
+      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Workshop on Sub-Seasonal to Seasonal Predictability of Extreme Weather and Climate}
+      \field{title}{{Seasonal climate signals and synoptic circulation patterns associated with regional daily intense precipitation in the Ohio River Basin}}
+      \field{year}{2016}
+    \endentry
+    \entry{Farnham2016b}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AGU Fall Meeting}
+      \field{title}{{Space-time characteristics and statistical predictability of extreme sub-weekly precipitation events in the Ohio River Basin}}
+      \field{year}{2016}
+    \endentry
+    \entry{Farnham2016}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=baa824d1be3bf8e20d833af3fc5f2c1f}{%
+           family={Gibson},
+           family_i={G\bibinitperiod},
+           given={Rebecca\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=98f79a72c945eb190026da0fb1f1ed62}{%
+           family={Hsueh},
+           family_i={H\bibinitperiod},
+           given={Diana\bibnamedelima Y},
+           given_i={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=2bf067b8747326f2d03a8074dc9729e2}{%
+           family={McGillis},
+           family_i={M\bibinitperiod},
+           given={Wade\bibnamedelima R},
+           given_i={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b629a6aeb5dbc280110915b1edd2b3f5}{%
+           family={Culligan},
+           family_i={C\bibinitperiod},
+           given={Patricia\bibnamedelima J},
+           given_i={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2d99ea7ac26b8eface36387eaa8f6557}{%
+           family={Zain},
+           family_i={Z\bibinitperiod},
+           given={Nina},
+           given_i={N\bibinitperiod}}}%
+        {{hash=65f6b3e9706a10209207fcb631ee7660}{%
+           family={Buchanan},
+           family_i={B\bibinitperiod},
+           given={Rob},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec1c7d28418b2bfc35cbdf0dc33066ed}
+      \strng{fullhash}{c4d630e4ee35d5f85bfbd8f36d01221b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To protect recreational water users from waterborne pathogen exposure, it is crucial that waterways are monitored for the presence of harmful bacteria. In NYC, a citizen science campaign is monitoring waterways impacted by inputs of storm water and untreated sewage during periods of rainfall. However, the spatial and temporal scales over which the monitoring program can sample are constrained by cost and time, thus hindering the construction of databases that benefit both scientists and citizens. In this study, we first illustrate the scientific value of a citizen scientist monitoring campaign by using the data collected through the campaign to characterize the seasonal variability of sampled bacterial concentration as well as its response to antecedent rainfall. Second, we examine the efficacy of the HyServe Compact Dry ETC method, a lower cost and time-efficient alternative to the EPA-approved IDEXX Enterolert method for fecal indicator monitoring, through a paired sample comparison of IDEXX and HyServe (total of 424 paired samples). The HyServe and IDEXX methods return the same result for over 80{\%} of the samples with regard to whether a water sample is above or below the EPA's recreational water quality criteria for a single sample of 110 enterococci per 100mL. The HyServe method classified as unsafe 90{\%} of the 119 water samples that were classified as having unsafe enterococci concentrations by the more established IDEXX method. This study seeks to encourage other scientists to engage with citizen scientist communities and to also pursue the development of cost- and time-efficient methodologies to sample environmental variables that are not easily collected or analyzed in an automated manner.}
+      \field{issn}{00489697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{month}{12}
+      \field{title}{{Citizen science-based water quality monitoring: Constructing a large database to characterize the impacts of combined sewer overflow in New York City}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1016/j.scitotenv.2016.11.116
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/28024746%20http://linkinghub.elsevier.com/retrieve/pii/S0048969716325694
+      \endverb
+      \keyw{CSO,Citizen science,Fecal indicator bacteria,HyServe Compact Dry ETC,IDEXX Enterolert,Water quality}
+    \endentry
+    \entry{Habib2016}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=349e37ce9dcf7f7c2c0bb852a07e16a5}{%
+           family={Habib},
+           family_i={H\bibinitperiod},
+           given={E.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=89bec92b0cec2e3120828789d4698a53}{%
+           family={Tarboton},
+           family_i={T\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=e7d2881ce755f7def55fd6df73a1d01d}{%
+           family={Deshotel},
+           family_i={D\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=f7567ef6d36c819ee510436ec717a25e}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Orleans, LA}%
+      }
+      \strng{namehash}{45b3f9aa6cd93beac81c58d55c2c305a}
+      \strng{fullhash}{623fc8b08616e6c2f0e664ffbc4e4592}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Traditional approaches to undergraduate hydrology and water resource education are textbook based, adopt unit processes and rely on idealized examples of specific applications, rather than examining the contextual relations in the processes and the dynamics connecting climate and ecosystems. The overarching goal of this study is to address the needed paradigm shift in undergraduate education of engineering hydrology and water resources education to reflect parallel advances in hydrologic research and technology, mainly in the areas of new observational settings, data and modeling resources and web-based technologies. This paper presents efforts to develop a set of learning modules that are case-based, data and simulation driven and delivered via a web user interface. The modules are based on real-world case studies from three regional hydrologic settings: Coastal Louisiana, Florida Everglades, and Utah Rocky Mountains. These three systems unique learning opportunities on topics such as: regional-scale budget analysis, hydrologic effects of human and natural changes, flashflood protection, climate-hydrology teleconnections and water resource management scenarios. The technical design and contents of the modules aim to support students' ability for transforming their learning outcomes and skills to hydrologic systems other than those used by the specific activity. To promote active learning, the modules take students through a set of highly engaging learning activities that are based on analysis of hydrologic data and model simulations. The modules include user support in the form of feedback and self-assessment mechanisms that are integrated within the online modules. Module effectiveness is assessed through an improvement-focused evaluation model using a mixed-method research approach guiding collection and analysis of evaluation data. Both qualitative and quantitative data are collected through student learning data, product analysis, and staff interviews. The paper discusses lessons learned from the development and implementation of the modules, guidelines on design and content attributes that support active learning in hydrology, and challenges encountered during the class implementation and evaluation of the modules.}
+      \field{booktitle}{ASEE Annual Conference {\&} Exposition}
+      \field{title}{{Development of Student-centered Modules to Support Active Learning in Hydrology}}
+      \field{year}{2016}
+    \endentry
+    \entry{Larson2016}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=ddb36ac6ffe630e772f7ce8fd22fb688}{%
+           family={Larson},
+           family_i={L\bibinitperiod},
+           given={Lincoln\bibnamedelima R.},
+           given_i={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f74ffa6a60aec7b34fc76ee4f82ff256}{%
+           family={Cooper},
+           family_i={C\bibinitperiod},
+           given={Caren\bibnamedelima B.},
+           given_i={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=94491c8a0fe27f8de0cf8af48edb79fe}{%
+           family={Krafte},
+           family_i={K\bibinitperiod},
+           given={Katie},
+           given_i={K\bibinitperiod}}}%
+        {{hash=7b1de2a20b9e5613b3d36c4afa58f9aa}{%
+           family={Gibson},
+           family_i={G\bibinitperiod},
+           given={Rebecca},
+           given_i={R\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8abb98d971f84ddae92179d24ef5f3b2}{%
+           family={Hsueh},
+           family_i={H\bibinitperiod},
+           given={Diana},
+           given_i={D\bibinitperiod}}}%
+        {{hash=579c777fd5c332abb2b1a111187e7dfb}{%
+           family={Culligan},
+           family_i={C\bibinitperiod},
+           given={Patricia},
+           given_i={P\bibinitperiod}}}%
+        {{hash=4e89bfcc9259ffeae945abae515e56c0}{%
+           family={{Wade McGillis}},
+           family_i={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Asheville, NC}%
+      }
+      \strng{namehash}{8f2128533dc92e6547c7b582072927ac}
+      \strng{fullhash}{4f3f8850e03f34fd7ef64775490fc595}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Southeastern Recreation Research Conference}
+      \field{title}{{Characterizing citizen scientists based on project engagement: Data generators, data users, and “onlooker effects.”}}
+      \field{year}{2016}
+    \endentry
+    \entry{talk1}{talks}{}
+      \list{location}{1}{%
+        {Interdisciplinary Workshop on Urban Green Infrastructure: Reports on Monitoring, Modeling, Performance {\&} Design Work. Columbia University, New York, NY, USA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{Bronx Sewershed Water Quality and Citizen Science (with W. McGillis and D. Hsueh)}}
+      \field{year}{2015}
+    \endentry
+    \entry{talk2}{talks}{}
+      \list{location}{1}{%
+        {NSF EAPSI closing ceremony presentation series at the National Research Foundation of Korea. Seoul, South Korea}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{Extreme Rainfall Mechanisms, Prediction, and Simulation at Chonbuk National University in Summer 2015}}
+      \field{year}{2015}
+    \endentry
+    \entry{Farnham2015}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7bcdc007b37df07694f2ef8e45d75552}{%
+           family={Habib},
+           family_i={H\bibinitperiod},
+           given={Emad.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \strng{namehash}{76fa26ee0b541166da67079f88ae67d2}
+      \strng{fullhash}{76fa26ee0b541166da67079f88ae67d2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Engineering students in hydrology courses typically study water from the moment it falls as rain to the time it leaves a watershed. Understanding the mechanisms of precipitation (moisture transport, convection, convergence, etc.), however, can improve the analysis and design of downstream systems. Return period estimation, drainage design and sizing, and dam construction and operation are among the components of traditional water resource engineering problems that can benefit from a basic understanding of climate and weather systems that produce precipitation. This is especially critical in a nonstationary world. We discuss the components, benefits, and challenges of designing and implementing an introductory climate teleconnections module with emphasis on complementing traditional hydrology courses for engineering students.}
+      \field{booktitle}{AGU Fall Meeting}
+      \field{title}{{HydroViz: A Web-based Climate Teleconnection Module for Undergraduate and Graduate Water Engineering Students}}
+      \field{year}{2015}
+    \endentry
+    \entry{Farnham2015c}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5b635a14f741135a755ba2944120e02}
+      \strng{fullhash}{a5b635a14f741135a755ba2944120e02}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although the relationships between meteorological conditions and waterway bacterial contamination are being better understood, statistical models capable of fully leveraging these links have not been developed for highly urbanized settings. We present a hierarchical Bayesian regression model for predicting transient fecal indicator bacteria contamination episodes in urban waterways. Canals, creeks, and rivers of the New York City harbor system are used to examine the model. The model configuration facilitates the hierarchical structure of the underlying system with weekly observations nested within sampling sites, which in turn were nested inside of the harbor network. Models are compared using cross-validation and a variety of Bayesian and classical model fit statistics. The uncertainty of predicted enterococci concentration values is reflected by sampling from the posterior predictive distribution. Issuing predictions with the uncertainty reasonably reflected allows a water manager or a monitoring agency to issue warnings that better reflect the underlying risk of exposure. A model using only antecedent meteorological conditions is shown to correctly classify safe and unsafe levels of enterococci with good accuracy. The hierarchical Bayesian regression approach is most valuable where transient fecal indicator bacteria contamination is problematic and drainage network data are scarce.}
+      \field{issn}{00431354}
+      \field{journaltitle}{Water Research}
+      \field{month}{06}
+      \field{title}{{Predictive statistical models linking antecedent meteorological conditions and waterway bacterial contamination in urban waterways}}
+      \field{volume}{76}
+      \field{year}{2015}
+      \field{pages}{143\bibrangedash 159}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.watres.2015.02.040
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S004313541500113X
+      \endverb
+      \keyw{Fecal bacteria contamination,Hierarchical Bayesian model,Urban runoff,Urban waterways,Water quality modeling}
+    \endentry
+    \entry{Farnham2015a}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a3117b30f52bd5bbecefb9c3df516e59}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+        {{hash=bae1e07b16578309bf9c3c2effc3f3e8}{%
+           family={Kwon},
+           family_i={K\bibinitperiod},
+           given={Hyun-Han},
+           given_i={H\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \strng{namehash}{cad58a06be8a7e696fd26d07bf7b1b67}
+      \strng{fullhash}{ecf103fe5a16bb2fb04b2b17f9234a91}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Associations between mid-latitude precipitation and long-distance moisture transport, particularly influxes from the tropics and sub-tropics, are becoming increasingly recognized. However, moisture sources associated with sub-weekly extreme precipitation and flooding events in the mid-latitudes have yet to be fully assessed and statistically modeled. We use the Hybrid Single Particle Integrated Trajectory Model to analyze backwards Lagrangian trajectories conditional on the occurrence of extreme rainfall. We diagnose the moisture sources of flood events in locations of the United States and South Korea. The influence of underlying atmospheric fields and the potential for predictive modeling of extreme rainfall occurrence is also discussed.}
+      \field{booktitle}{AGU Fall Meeting}
+      \field{title}{{Moisture Transport and Extreme Precipitation in Mid-latitudes}}
+      \field{year}{2015}
+    \endentry
+    \entry{Habib2015}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=7bcdc007b37df07694f2ef8e45d75552}{%
+           family={Habib},
+           family_i={H\bibinitperiod},
+           given={Emad.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=f14b7c14897833eb0c3fc63ab578404b}{%
+           family={Bodin},
+           family_i={B\bibinitperiod},
+           given={Madeleine},
+           given_i={M\bibinitperiod}}}%
+        {{hash=5d569f3e93abe746f0810cb80e3736a1}{%
+           family={Taboton},
+           family_i={T\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+        {{hash=ff72dbafce54fe9469fdf83bb66aa7ac}{%
+           family={Merck},
+           family_i={M\bibinitperiod},
+           given={Madeline},
+           given_i={M\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, WA}%
+      }
+      \strng{namehash}{ca9df25797c9f845a32b34b539b9f459}
+      \strng{fullhash}{3212cae37de94ef3657c70c39848434c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ASEE Annual Conference {\&} Exposition}
+      \field{title}{{Stimulating Active Learning in Hydrology Using Research-Driven, Web-based Learning Modules}}
+      \field{year}{2015}
+    \endentry
+    \entry{Hsueh2015a}{inproceedings}{}
+      \name{author}{10}{}{%
+        {{hash=c133d8431c70f77032eb04154fc9ae6f}{%
+           family={Hsueh},
+           family_i={H\bibinitperiod},
+           given={D.\bibnamedelimi Y.},
+           given_i={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=f7567ef6d36c819ee510436ec717a25e}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6f87fc28be3868a394a8f8961a5ea77a}{%
+           family={Gibson},
+           family_i={G\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=565aab3778cfd031ac7449cec8f069bd}{%
+           family={McGillis},
+           family_i={M\bibinitperiod},
+           given={W.\bibnamedelimi R.},
+           given_i={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c60f185427d9cc816a89c558b52a6339}{%
+           family={Zheng},
+           family_i={Z\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=463e857a225436683170f3d2ee5daad3}{%
+           family={Buchanan},
+           family_i={B\bibinitperiod},
+           given={R.},
+           given_i={R\bibinitperiod}}}%
+        {{hash=98cb0194e19f9af0ae5c656e9fe21dc9}{%
+           family={Eddowes},
+           family_i={E\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=56a749875aa4afd7a8e9a93e564e79ec}{%
+           family={Zain},
+           family_i={Z\bibinitperiod},
+           given={N.},
+           given_i={N\bibinitperiod}}}%
+        {{hash=931ad59d99f776324b40b5bdf6cdb694}{%
+           family={Loiselle},
+           family_i={L\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+        {{hash=7216575b43abfb4af476320b1e7ba6e6}{%
+           family={Butkiewicz},
+           family_i={B\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Granada, Spain}%
+      }
+      \strng{namehash}{027c3aa1568324adba1282377c21eca0}
+      \strng{fullhash}{00f43593e58a56a5bdccddc900e988d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{New York City (NYC), along with other older cities around the world, often deal with what's known as Combined Sewer Outfall (CSO) events, where a mix of untreated wastewater from buildings and storm water are released into neighboring water bodies at hundreds of legitimate locations throughout the city. Enterococcus bacteria, which is an indicator for pathogens in brackish and saline waters, increase significantly in the waterways after a storm event due to the CSO problem. These bacteria levels reach levels well beyond safe swimming and contact standards thus recording the relationship between storm intensity and contamination is paramount in assessing mitigation strategies. Ultimately, decreasing the amount of combined wastewater is necessary to improve the environmental quality of NYC's waterways and increase their recreational usage. Citizen scientists play an important role in this by allowing academic and public stakeholders to obtain a comprehensive assessment over large spatial and temporal scales. Here we address Lamont Doherty Earth Observatory's partnership with HSBC, Earthwatch and The River Project to bring citizen scientists to life in NYC.}
+      \field{booktitle}{Aquatic Sciences Meeting}
+      \field{title}{{NYC URBAN WATER QUALITY: MONITORING THE FLOW OF CSOS WITH CITIZEN SCIENTISTS}}
+      \field{year}{2015}
+    \endentry
+    \entry{Hsueh2015}{inproceedings}{}
+      \name{author}{14}{}{%
+        {{hash=8abb98d971f84ddae92179d24ef5f3b2}{%
+           family={Hsueh},
+           family_i={H\bibinitperiod},
+           given={Diana},
+           given_i={D\bibinitperiod}}}%
+        {{hash=a3117b30f52bd5bbecefb9c3df516e59}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7b1de2a20b9e5613b3d36c4afa58f9aa}{%
+           family={Gibson},
+           family_i={G\bibinitperiod},
+           given={Rebecca},
+           given_i={R\bibinitperiod}}}%
+        {{hash=2d1271a79077ee7267379254357b026c}{%
+           family={McGillis},
+           family_i={M\bibinitperiod},
+           given={Wade\bibnamedelima Randall},
+           given_i={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=eed3466e6ba3f6193921175f86163b14}{%
+           family={Culligan},
+           family_i={C\bibinitperiod},
+           given={Patricia\bibnamedelima Jane},
+           given_i={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e97a33868eb0f6b26ae5a0504d49d147}{%
+           family={Cooper},
+           family_i={C\bibinitperiod},
+           given={Caren},
+           given_i={C\bibinitperiod}}}%
+        {{hash=5b9731e597af546b515c00608d51c124}{%
+           family={Larson},
+           family_i={L\bibinitperiod},
+           given={Lincoln},
+           given_i={L\bibinitperiod}}}%
+        {{hash=d5ff983a16a335577d30a33ce6eac377}{%
+           family={Mailloux},
+           family_i={M\bibinitperiod},
+           given={Brian\bibnamedelima Justin},
+           given_i={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a5f0c8037a9dbef6edd0767bff2f358c}{%
+           family={Buchanan},
+           family_i={B\bibinitperiod},
+           given={Robert},
+           given_i={R\bibinitperiod}}}%
+        {{hash=7b0d1fc8f58cfce17e3ca042b0028347}{%
+           family={Borus},
+           family_i={B\bibinitperiod},
+           given={Nancy},
+           given_i={N\bibinitperiod}}}%
+        {{hash=2d99ea7ac26b8eface36387eaa8f6557}{%
+           family={Zain},
+           family_i={Z\bibinitperiod},
+           given={Nina},
+           given_i={N\bibinitperiod}}}%
+        {{hash=264eea861abb492f6528c08845f79d57}{%
+           family={Eddowes},
+           family_i={E\bibinitperiod},
+           given={Diana},
+           given_i={D\bibinitperiod}}}%
+        {{hash=ccd83d5372be4e064e5a22fc73566298}{%
+           family={Butkiewicz},
+           family_i={B\bibinitperiod},
+           given={Lizzette},
+           given_i={L\bibinitperiod}}}%
+        {{hash=80dbf6f592528e7cec0a529bd732a66a}{%
+           family={Loiselle12},
+           family_i={L\bibinitperiod},
+           given={Steven\bibnamedelima A.},
+           given_i={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \strng{namehash}{0b1f07378d98e6b0a915718cfe57b4db}
+      \strng{fullhash}{b51d3c5fb1925301a2029b46dac9e5b9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Citizen Science is a fast-growing ecological research tool with proven potential to rapidly produce large datasets. While the fields of astronomy and ornithology demonstrate particularly successful histories of enlisting the public in conducting scientific work, citizen science applications to the field of hydrology have been relatively underutilized. We demonstrate the potential of citizen science for monitoring water quality, particularly in the impervious, urban environment of New York City (NYC) where pollution via stormwater runoff is a leading source of waterway contamination. Through partnerships with HSBC, Earthwatch, and the NYC Water Trail Association, we have trained two citizen science communities to monitor the quality of NYC waterways, testing for a suite of water quality parameters including pH, turbidity, phosphate, nitrate, and Enterococci (an indicator bacteria for the presence of harmful pathogens associated with fecal pollution). We continue to enhance these citizen science programs with two additions to our methodology. First, we designed and produced at-home incubation ovens for Enterococci analysis, and second, we are developing automated photo-imaging for nitrate and phosphate concentrations. These improvements make our work more publicly accessible while maintaining scientific accuracy. We also initiated a volunteer survey assessing the motivations for participation among our citizen scientists. These three endeavors will inform future applications of citizen science for urban hydrological research. Ultimately, the spatiotemporally-rich dataset of waterway quality produced from our citizen science efforts will help advise NYC policy makers about the impacts of green infrastructure and other types of government-led efforts to clean up NYC waterways.}
+      \field{booktitle}{AGU Fall Meeting}
+      \field{title}{{Advancing the Potential of Citizen Science for Urban Water Quality Monitoring: Exploring Research Design and Methodology in New York City}}
+      \field{year}{2015}
+    \endentry
+    \entry{talk3}{talks}{}
+      \list{location}{1}{%
+        {Citizens Advisory Committee, New York-New Jersey Harbor {\&} Estuary Program meeting. New York, NY, USA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{NYC Urban Water Quality: Monitoring the Flow of CSOs with Citizen Scientists (with R. Gibson and D. Hsueh)}}
+      \field{year}{2015}
+    \endentry
+    \entry{talk5}{talks}{}
+      \list{location}{1}{%
+        {NSF IGERT, Solving Urbanization Challenges by Design summer workshop series. Columbia University, New York, NY, USA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{Understanding Climate Risks in an Urban Environment (with M. Haraguchi)}}
+      \field{year}{2013}
+    \endentry
+    \entry{talk4}{talks}{}
+      \list{location}{1}{%
+        {NSF IGERT, Solving Urbanization Challenges by Design Brown Bag seminar series. Columbia University, New York, NY, USA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{Urban Water Cycle Responses to Climate}}
+      \field{year}{2013}
+    \endentry
+    \entry{Farnham2012}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c79a35f4517f383eec7c70342dd79139}{%
+           family={Atkinson},
+           family_i={A\bibinitperiod},
+           given={Joseph\bibnamedelima F.},
+           given_i={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oswego, NY}%
+      }
+      \strng{namehash}{c11ae8797a5945762e90d5b737bbda8f}
+      \strng{fullhash}{c11ae8797a5945762e90d5b737bbda8f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The 22nd Annual Great Lakes Research Consortium Student-Faculty Conference}
+      \field{title}{{Flow visualization study: Understanding water circulation in Lake Ontario through physical modeling}}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -14,10 +14,8 @@
 
 % Packages
 \usepackage{siunitx} % for numbers
+\usepackage{enumitem}
 
-% remove periods fromt eh end of \cventry items
-\usepackage{xpatch}
-\xpatchcmd{\cventry}{.\strut}{\strut}{}{}
 
 
 \setlength{\hintscolumnwidth}{3.3cm}  %  width of the column with the dates
@@ -53,21 +51,41 @@
 \defbibheading{panels}{\subsection*{Invited Panel Participation}}
 
 % make author bold
-\newcommand{\makeauthorbold}[1]{%
-  \DeclareNameFormat{author}{%
-    \ifthenelse{\value{listcount}=1}
-    {%
-      {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\namepartfamily\addcomma\addspace \namepartgiveni}}{\namepartfamily\addcomma\addspace \namepartgiveni}}
-      %
-    }{\ifnumless{\value{listcount}}{\value{liststop}}
-        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}
-        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}%
-      }
-    \ifthenelse{\value{listcount}<\value{liststop}}
-    {\addcomma\space}
-  }
+% make author bold
+\def\makenamesetup{%
+  \def\bibnamedelima{~}%
+  \def\bibnamedelimb{ }%
+  \def\bibnamedelimc{ }%
+  \def\bibnamedelimd{ }%
+  \def\bibnamedelimi{ }%
+  \def\bibinitperiod{.}%
+  \def\bibinitdelim{~}%
+  \def\bibinithyphendelim{.-}}
+\newcommand*{\makename}[2]{\begingroup\makenamesetup\xdef#1{#2}\endgroup}
+
+\newcommand*{\boldname}[3]{%
+  \def\lastname{#1}%
+  \def\firstname{#2}%
+  \def\firstinit{#3}}
+\boldname{}{}{}
+
+% Patch new definitions
+\renewcommand{\mkbibnamegiven}[1]{%
+  \makename{\currname}{#1}%
+  \makename{\findname}{\firstname}%
+  \makename{\findinit}{\firstinit}%
+  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}}%
+    or test {\ifdefequal{\currname}{\findinit}} }%
+  {\mkbibbold{#1}}{#1}%
 }
-\makeauthorbold{Farnham}
+
+\renewcommand{\mkbibnamefamily}[1]{%
+  \makename{\currname}{#1}%
+  \makename{\findname}{\lastname}%
+  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}} }%
+  {\mkbibbold{#1}}{#1}%
+}
+
 
 \addbibresource{MyPapers.bib}
 
