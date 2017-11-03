@@ -19,7 +19,7 @@
 
 \refsection{0}
   \sortlist[entry]{ydnt/global/}
-    \entry{Farnham2017}{unpublished}{}
+    \entry{Farnham2017a}{unpublished}{}
       \name{author}{3}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
            family={Farnham},
@@ -44,7 +44,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Water Resources Research}
-      \field{title}{{Regional intense precipitation events: robust inference from credibly simulated GCM state variables (under review in Water Resources Research)}}
+      \field{title}{{Regional intense precipitation events: robust inference from credibly simulated GCM state variables (in revision in Water Resources Research)}}
     \endentry
     \entry{Farnham2017c}{unpublished}{}
       \name{author}{3}{}{%
@@ -96,7 +96,34 @@
       \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Is Anthropogenic Warming Changing El Nino's effect on North America's Hydroclimate? (in prep)}}
+      \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (in review in GRL)}}
+    \endentry
+    \entry{Hamidi2017}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=1dfaa83b713dbcc5358aa231e59ca911}{%
+           family={Hamidi},
+           family_i={H\bibinitperiod},
+           given={Ali},
+           given_i={A\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=be34ec1ce59b460a35781e13fd64adf6}{%
+           family={Khanbilvardi},
+           family_i={K\bibinitperiod},
+           given={Reza},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4147b11aebb9a32d94490ac4699efd55}
+      \strng{fullhash}{4147b11aebb9a32d94490ac4699efd55}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Stochastic Environmental Research and Risk Assessment}
+      \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (in revision in Stochastic Environmental Research and Risk Assessment)}}
     \endentry
     \entry{Kim2017}{unpublished}{}
       \name{author}{5}{}{%
@@ -165,6 +192,37 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (in prep)}}
+    \endentry
+    \entry{Farnham2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {UMASS Amherst}%
+      }
+      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{North East Graduate Student Water Symposium}
+      \field{title}{{Regional Intense Precipitation Events: Inferences from GCM Atmospheric Circulation Fields}}
+      \field{year}{2017}
     \endentry
     \entry{panel2}{panels}{}
       \list{location}{1}{%
