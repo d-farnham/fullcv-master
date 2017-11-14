@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  24 OCT 2017 18:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 NOV 2017 13:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2179,6 +2179,8 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 20 was incomplete)
 (\end occurred when \ifnum on line 20 was incomplete)
 (\end occurred when \ifnum on line 20 was incomplete)
+(\end occurred when \ifnum on line 20 was incomplete)
+(\end occurred when \ifnum on line 20 was incomplete)
 (\end occurred when \ifnum on line 19 was incomplete)
 (\end occurred when \ifnum on line 19 was incomplete)
 (\end occurred when \ifnum on line 19 was incomplete)
@@ -2187,10 +2189,10 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 19 was incomplete)
 (\end occurred when \ifnum on line 19 was incomplete) 
 Here is how much of TeX's memory you used:
- 37903 strings out of 493014
- 721980 string characters out of 6133351
- 1109522 words of memory out of 5000000
- 40647 multiletter control sequences out of 15000+600000
+ 37907 strings out of 493014
+ 722092 string characters out of 6133351
+ 1110548 words of memory out of 5000000
+ 40650 multiletter control sequences out of 15000+600000
  71151 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,12n,58p,10410b,1610s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2203,10 +2205,10 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Farnham_main.pdf (4 pages, 129023 bytes).
+Output written on CV_Farnham_main.pdf (4 pages, 129167 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
  56453 words of extra memory for PDF output out of 61914 (max. 10000000)
 

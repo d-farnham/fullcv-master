@@ -193,6 +193,33 @@
       \field{labeltitlesource}{title}
       \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (in prep)}}
     \endentry
+    \entry{Cao2017}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=dc534d1bc97dad0d5b45d2f6b882d09e}{%
+           family={Cao},
+           family_i={C\bibinitperiod},
+           given={Jianan},
+           given_i={J\bibinitperiod}}}%
+        {{hash=a3117b30f52bd5bbecefb9c3df516e59}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec4e982e3d35befa83a9dd746d848a8b}
+      \strng{fullhash}{ec4e982e3d35befa83a9dd746d848a8b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
+      \field{year}{2017}
+    \endentry
     \entry{Farnham2017}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
