@@ -72,32 +72,6 @@
       \field{labeltitlesource}{title}
       \field{title}{{Long-term Trends, Decadal Variability, and Teleconnections associated with Sub-weekly Precipitation Extremes from a Multicentury Record (in prep)}}
     \endentry
-    \entry{Farnham2017b}{unpublished}{}
-      \name{author}{3}{}{%
-        {{hash=9f04c381f005697efd10b6251574fb11}{%
-           family={Farnham},
-           family_i={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
-           family={Steinschneider},
-           family_i={S\bibinitperiod},
-           given={Scott},
-           given_i={S\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           family_i={L\bibinitperiod},
-           given={Upmanu},
-           given_i={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{701f2cefc47f5cacedb06ce18a5b5c61}
-      \strng{fullhash}{701f2cefc47f5cacedb06ce18a5b5c61}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (in review in GRL)}}
-    \endentry
     \entry{Hamidi2017}{unpublished}{}
       \name{author}{3}{}{%
         {{hash=1dfaa83b713dbcc5358aa231e59ca911}{%
@@ -218,6 +192,32 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
+      \field{year}{2017}
+    \endentry
+    \entry{DavidJ.Farnham}{article}{}
+      \name{author}{3}{}{%
+        {{hash=50de13dde21a8678835e2613da407c77}{%
+           family={{David J. Farnham}},
+           family_i={D\bibinitperiod}}}%
+        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
+           family={Steinschneider},
+           family_i={S\bibinitperiod},
+           given={Scott},
+           given_i={S\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{07bccb20332722e1bdf977432a83f4ba}
+      \strng{fullhash}{07bccb20332722e1bdf977432a83f4ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Reasearch Letters}
+      \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (accepted)}}
       \field{year}{2017}
     \endentry
     \entry{Farnham2017}{inproceedings}{}
