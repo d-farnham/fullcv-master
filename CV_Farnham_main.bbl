@@ -194,32 +194,6 @@
       \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
       \field{year}{2017}
     \endentry
-    \entry{DavidJ.Farnham}{article}{}
-      \name{author}{3}{}{%
-        {{hash=50de13dde21a8678835e2613da407c77}{%
-           family={{David J. Farnham}},
-           family_i={D\bibinitperiod}}}%
-        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
-           family={Steinschneider},
-           family_i={S\bibinitperiod},
-           given={Scott},
-           given_i={S\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           family_i={L\bibinitperiod},
-           given={Upmanu},
-           given_i={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{07bccb20332722e1bdf977432a83f4ba}
-      \strng{fullhash}{07bccb20332722e1bdf977432a83f4ba}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Geophysical Reasearch Letters}
-      \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (accepted)}}
-      \field{year}{2017}
-    \endentry
     \entry{Farnham2017}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
@@ -249,6 +223,34 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{North East Graduate Student Water Symposium}
       \field{title}{{Regional Intense Precipitation Events: Inferences from GCM Atmospheric Circulation Fields}}
+      \field{year}{2017}
+    \endentry
+    \entry{DavidJ.Farnham}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
+           family={Steinschneider},
+           family_i={S\bibinitperiod},
+           given={Scott},
+           given_i={S\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{701f2cefc47f5cacedb06ce18a5b5c61}
+      \strng{fullhash}{701f2cefc47f5cacedb06ce18a5b5c61}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Reasearch Letters}
+      \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (accepted)}}
       \field{year}{2017}
     \endentry
     \entry{panel2}{panels}{}
