@@ -194,6 +194,59 @@
       \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
       \field{year}{2017}
     \endentry
+    \entry{Cooper}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e97a33868eb0f6b26ae5a0504d49d147}{%
+           family={Cooper},
+           family_i={C\bibinitperiod},
+           given={Caren},
+           given_i={C\bibinitperiod}}}%
+        {{hash=5b9731e597af546b515c00608d51c124}{%
+           family={Larson},
+           family_i={L\bibinitperiod},
+           given={Lincoln},
+           given_i={L\bibinitperiod}}}%
+        {{hash=e79b19c57a61d0b9439d37bf9f5649bb}{%
+           family={Krafte},
+           family_i={K\bibinitperiod},
+           given={Kathleen},
+           given_i={K\bibinitperiod}}}%
+        {{hash=7b1de2a20b9e5613b3d36c4afa58f9aa}{%
+           family={Gibson},
+           family_i={G\bibinitperiod},
+           given={Rebecca},
+           given_i={R\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=19c4be37ddd877665195c6cbf8bb64df}{%
+           family={Hseuh},
+           family_i={H\bibinitperiod},
+           given={Diana},
+           given_i={D\bibinitperiod}}}%
+        {{hash=579c777fd5c332abb2b1a111187e7dfb}{%
+           family={Culligan},
+           family_i={C\bibinitperiod},
+           given={Patricia},
+           given_i={P\bibinitperiod}}}%
+        {{hash=4c4a1c37855c956bff4425e47d022577}{%
+           family={McGillis},
+           family_i={M\bibinitperiod},
+           given={Wade},
+           given_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ec68fa67940a6a3d7c27e419ec5ba8c}
+      \strng{fullhash}{75044e699cdf5f1a970d4f92ecd3545b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Citizen Science: Theory and Practice}
+      \field{title}{{Data collectors, data consumers, and the onlooker effects in citizen science: Reimagining skewed participation according to multiple project goals (in press)}}
+      \field{year}{2017}
+    \endentry
     \entry{Farnham2017}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
@@ -250,7 +303,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Geophysical Reasearch Letters}
-      \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (accepted)}}
+      \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (in press)}}
       \field{year}{2017}
     \endentry
     \entry{panel2}{panels}{}
