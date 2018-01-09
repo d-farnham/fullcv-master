@@ -194,71 +194,79 @@
       \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
       \field{year}{2017}
     \endentry
-    \entry{Cooper}{article}{}
+    \entry{Cooper2017}{article}{}
       \name{author}{8}{}{%
-        {{hash=e97a33868eb0f6b26ae5a0504d49d147}{%
+        {{hash=d29c8bace02f8c633e5d9aced45b4b77}{%
            family={Cooper},
            family_i={C\bibinitperiod},
-           given={Caren},
-           given_i={C\bibinitperiod}}}%
-        {{hash=5b9731e597af546b515c00608d51c124}{%
+           given={Caren\bibnamedelima B},
+           given_i={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=66644f04360e40e94e51b40c110a9556}{%
            family={Larson},
            family_i={L\bibinitperiod},
-           given={Lincoln},
-           given_i={L\bibinitperiod}}}%
-        {{hash=e79b19c57a61d0b9439d37bf9f5649bb}{%
-           family={Krafte},
-           family_i={K\bibinitperiod},
-           given={Kathleen},
-           given_i={K\bibinitperiod}}}%
-        {{hash=7b1de2a20b9e5613b3d36c4afa58f9aa}{%
+           given={Lincoln\bibnamedelima R},
+           given_i={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=22de4a9ed3f41f3c00c4eae76564f0bb}{%
+           family={Holland},
+           family_i={H\bibinitperiod},
+           given={Kathleen\bibnamedelima Krafte},
+           given_i={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=baa824d1be3bf8e20d833af3fc5f2c1f}{%
            family={Gibson},
            family_i={G\bibinitperiod},
-           given={Rebecca},
-           given_i={R\bibinitperiod}}}%
-        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           given={Rebecca\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a3117b30f52bd5bbecefb9c3df516e59}{%
            family={Farnham},
            family_i={F\bibinitperiod},
-           given={David\bibnamedelima J.},
+           given={David\bibnamedelima J},
            given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=19c4be37ddd877665195c6cbf8bb64df}{%
-           family={Hseuh},
+        {{hash=98f79a72c945eb190026da0fb1f1ed62}{%
+           family={Hsueh},
            family_i={H\bibinitperiod},
-           given={Diana},
-           given_i={D\bibinitperiod}}}%
-        {{hash=579c777fd5c332abb2b1a111187e7dfb}{%
+           given={Diana\bibnamedelima Y},
+           given_i={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=b629a6aeb5dbc280110915b1edd2b3f5}{%
            family={Culligan},
            family_i={C\bibinitperiod},
-           given={Patricia},
-           given_i={P\bibinitperiod}}}%
-        {{hash=4c4a1c37855c956bff4425e47d022577}{%
-           family={McGillis},
+           given={Patricia\bibnamedelima J},
+           given_i={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ec1d3c6634396ba80fad86971abc0ccb}{%
+           family={Mcgillis},
            family_i={M\bibinitperiod},
-           given={Wade},
-           given_i={W\bibinitperiod}}}%
+           given={Wade\bibnamedelima R},
+           given_i={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
-      \strng{namehash}{5ec68fa67940a6a3d7c27e419ec5ba8c}
-      \strng{fullhash}{75044e699cdf5f1a970d4f92ecd3545b}
+      \strng{namehash}{bdfcc3e2397666b74a524e1b5394fc66}
+      \strng{fullhash}{2943ecf07d1e434496c87c70b2f261b5}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Citizen Science: Theory and Practice}
-      \field{title}{{Data collectors, data consumers, and the onlooker effects in citizen science: Reimagining skewed participation according to multiple project goals (in press)}}
+      \field{number}{2}
+      \field{title}{{Contrasting the Views and Actions of Data Collectors and Data Consumers in a Volunteer Water Quality Monitoring Project : Implications for Project Design and Management}}
+      \field{volume}{2}
       \field{year}{2017}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{file}
+      \verb :Users/davidfarnham/Downloads/82-1082-2-PB.pdf:pdf
+      \endverb
+      \keyw{citizen science,community-based research,conservation,enterococci bacteria,nyc kayakers,pareto principle,water quality monitoring}
     \endentry
-    \entry{Farnham2017}{inproceedings}{}
+    \entry{Doss-Gollin2017}{inproceedings}{}
       \name{author}{3}{}{%
-        {{hash=9f04c381f005697efd10b6251574fb11}{%
-           family={Farnham},
-           family_i={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
            family_i={D\bibinithyphendelim G\bibinitperiod},
            given={James},
            given_i={J\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=d8987e53f709ebc80726bd51f22a0860}{%
            family={Lall},
            family_i={L\bibinitperiod},
@@ -266,16 +274,62 @@
            given_i={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {UMASS Amherst}%
+        {New Orleans, LA}%
       }
-      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
-      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \strng{namehash}{03fae2b4e489958d7cc6516055ea402e}
+      \strng{fullhash}{03fae2b4e489958d7cc6516055ea402e}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{North East Graduate Student Water Symposium}
-      \field{title}{{Regional Intense Precipitation Events: Inferences from GCM Atmospheric Circulation Fields}}
+      \field{booktitle}{AGU Fall Meeting}
+      \field{title}{{Designing and operating infrastructure for nonstationary flood risk management}}
+      \field{year}{2017}
+    \endentry
+    \entry{Faranda2017}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=5bba7091edb45c2ca15fc41df7d91216}{%
+           family={Faranda},
+           family_i={F\bibinitperiod},
+           given={Davide},
+           given_i={D\bibinitperiod}}}%
+        {{hash=f700a832b740186994e4531c6a35ed2a}{%
+           family={Messori},
+           family_i={M\bibinitperiod},
+           given={Gabriele},
+           given_i={G\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+        {{hash=652f69fee0c2c2ab1be5e9f7c8315917}{%
+           family={Yiou},
+           family_i={Y\bibinitperiod},
+           given={Pascal},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Orleans, LA}%
+      }
+      \strng{namehash}{3e4c84817985c4a4726e0258960cfd3c}
+      \strng{fullhash}{13ee47b28033a09310e11c940692b6e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AGU FAll Meeting}
+      \field{title}{{Dynamics and Thermodynamics of weather extremes: a dynamical systems approach}}
       \field{year}{2017}
     \endentry
     \entry{DavidJ.Farnham}{article}{}
@@ -304,6 +358,98 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Geophysical Reasearch Letters}
       \field{title}{{Zonal wind indices to reconstruct CONUS winter precipitation (in press)}}
+      \field{year}{2017}
+    \endentry
+    \entry{Farnham2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
+           family={Steinschneider},
+           family_i={S\bibinitperiod},
+           given={Scott},
+           given_i={S\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Orleans, LA}%
+      }
+      \strng{namehash}{701f2cefc47f5cacedb06ce18a5b5c61}
+      \strng{fullhash}{701f2cefc47f5cacedb06ce18a5b5c61}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AGU Fall Meeting}
+      \field{title}{{Zonal wind indices to reconstruct United States winter precipitation during El Ni$\backslash${\~{}}{\{}n{\}}o}}
+      \field{year}{2017}
+    \endentry
+    \entry{Gawthrop2017}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=e4c07436ce4f812382e934b5f0075ae9}{%
+           family={Gawthrop},
+           family_i={G\bibinitperiod},
+           given={Elisabeth},
+           given_i={E\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fda27c7fef1a2373e69d5596dfa3d8cb}{%
+           family={Fiondella},
+           family_i={F\bibinitperiod},
+           given={Francesco},
+           given_i={F\bibinitperiod}}}%
+        {{hash=9a5bee5fd0e8e6d412793a3cafe70271}{%
+           family={Owusu},
+           family_i={O\bibinitperiod},
+           given={Aisha\bibnamedelima S.},
+           given_i={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=dba3c8625cc3d18156a4f02fa5da3233}{%
+           family={Thomson},
+           family_i={T\bibinitperiod},
+           given={Madeleine},
+           given_i={M\bibinitperiod}}}%
+        {{hash=955043d431e0985dca83596523533c7b}{%
+           family={Ambani},
+           family_i={A\bibinitperiod},
+           given={Maurine},
+           given_i={M\bibinitperiod}}}%
+        {{hash=7f9f0b27a0d30907de89b5ede55807b5}{%
+           family={Percy},
+           family_i={P\bibinitperiod},
+           given={Fiona},
+           given_i={F\bibinitperiod}}}%
+        {{hash=4f684ecd50ae02159bc05dd37f34c456}{%
+           family={Chung},
+           family_i={C\bibinitperiod},
+           given={Wonchang},
+           given_i={W\bibinitperiod}}}%
+        {{hash=0bdb4144077675c542562bf06665d5b5}{%
+           family={McKeown},
+           family_i={M\bibinitperiod},
+           given={Kathleen},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, WA}%
+      }
+      \strng{namehash}{30288bb9d6d719b6e291d7a2d31c0be5}
+      \strng{fullhash}{26bbf1e83171f95742ab55b825037506}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{97th American Meterological Society Annual Meeting}
+      \field{title}{{Media Analysis: Communication of the 2015/16 El Niño in Kenya}}
       \field{year}{2017}
     \endentry
     \entry{panel2}{panels}{}
