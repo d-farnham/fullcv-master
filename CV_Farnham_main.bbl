@@ -44,7 +44,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Water Resources Research}
-      \field{title}{{Regional intense precipitation events: robust inference from credibly simulated GCM state variables (in revision in Water Resources Research)}}
+      \field{title}{{Regional extreme precipitation events: robust inference from credibly simulated GCM variables (in revision in Water Resources Research)}}
     \endentry
     \entry{Farnham2017c}{unpublished}{}
       \name{author}{3}{}{%
@@ -330,6 +330,37 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{AGU FAll Meeting}
       \field{title}{{Dynamics and Thermodynamics of weather extremes: a dynamical systems approach}}
+      \field{year}{2017}
+    \endentry
+    \entry{Farnham2017b}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amherst, Mass}%
+      }
+      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{North East Graduate Student Water Symposium}
+      \field{title}{{Regional intense precipitation: inference from credibly simulated GCM variables}}
       \field{year}{2017}
     \endentry
     \entry{DavidJ.Farnham}{article}{}

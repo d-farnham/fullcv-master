@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 JAN 2018 15:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 FEB 2018 23:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2193,6 +2193,8 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
+(\end occurred when \ifnum on line 21 was incomplete)
+(\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 20 was incomplete)
 (\end occurred when \ifnum on line 20 was incomplete)
 (\end occurred when \ifnum on line 20 was incomplete)
@@ -2225,11 +2227,11 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 19 was incomplete)
 (\end occurred when \ifnum on line 19 was incomplete) 
 Here is how much of TeX's memory you used:
- 37948 strings out of 493014
- 722993 string characters out of 6133351
- 1111684 words of memory out of 5000000
- 40671 multiletter control sequences out of 15000+600000
- 71939 words of font info for 231 fonts, out of 8000000 for 9000
+ 37956 strings out of 493014
+ 723160 string characters out of 6133351
+ 1111712 words of memory out of 5000000
+ 40674 multiletter control sequences out of 15000+600000
+ 72162 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,12n,58p,10410b,1608s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/t
@@ -2242,10 +2244,10 @@ sr/local/texlive/2016/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/
 texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Farnham_main.pdf (5 pages, 139925 bytes).
+Output written on CV_Farnham_main.pdf (5 pages, 140165 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 500000)
  56461 words of extra memory for PDF output out of 61914 (max. 10000000)
 
