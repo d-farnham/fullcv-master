@@ -19,33 +19,6 @@
 
 \refsection{0}
   \sortlist[entry]{ydnt/global/}
-    \entry{Farnham2017a}{unpublished}{}
-      \name{author}{3}{}{%
-        {{hash=9f04c381f005697efd10b6251574fb11}{%
-           family={Farnham},
-           family_i={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           family_i={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           given_i={J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           family_i={L\bibinitperiod},
-           given={Upmanu},
-           given_i={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
-      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Water Resources Research}
-      \field{title}{{Regional extreme precipitation events: robust inference from credibly simulated GCM variables (in revision in Water Resources Research)}}
-    \endentry
     \entry{Farnham2017c}{unpublished}{}
       \name{author}{3}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
@@ -166,6 +139,34 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (in prep)}}
+    \endentry
+    \entry{Farnham2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \strng{fullhash}{a05b3cbb4d191cbd4fa42b8a7851e54b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{title}{{Regional extreme precipitation events: robust inference from credibly simulated GCM variables (accepted)}}
+      \field{year}{2018}
     \endentry
     \entry{Cao2017}{unpublished}{}
       \name{author}{3}{}{%
