@@ -19,6 +19,74 @@
 
 \refsection{0}
   \sortlist[entry]{ydnt/global/}
+    \entry{Cao2017}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=dc534d1bc97dad0d5b45d2f6b882d09e}{%
+           family={Cao},
+           family_i={C\bibinitperiod},
+           given={Jianan},
+           given_i={J\bibinitperiod}}}%
+        {{hash=a3117b30f52bd5bbecefb9c3df516e59}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec4e982e3d35befa83a9dd746d848a8b}
+      \strng{fullhash}{ec4e982e3d35befa83a9dd746d848a8b}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
+    \endentry
+    \entry{Farnham_EPG}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5b635a14f741135a755ba2944120e02}
+      \strng{fullhash}{a5b635a14f741135a755ba2944120e02}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Is anthropogenic warming changing the Southwest US's hydroclimate variability? (in prep)}}
+    \endentry
+    \entry{Farnham_energy}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5b635a14f741135a755ba2944120e02}
+      \strng{fullhash}{a5b635a14f741135a755ba2944120e02}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Solar and wind renewable energy supply decadal variability and coupling to heating/cooling electricity demand during extreme temperature events (in prep)}}
+    \endentry
     \entry{Farnham2017c}{unpublished}{}
       \name{author}{3}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
@@ -70,7 +138,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Stochastic Environmental Research and Risk Assessment}
-      \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (in revision in Stochastic Environmental Research and Risk Assessment)}}
+      \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (minor revision in Stochastic Environmental Research and Risk Assessment)}}
     \endentry
     \entry{Kim2017}{unpublished}{}
       \name{author}{5}{}{%
@@ -167,33 +235,6 @@
       \field{journaltitle}{Water Resources Research}
       \field{title}{{Regional extreme precipitation events: robust inference from credibly simulated GCM variables (accepted)}}
       \field{year}{2018}
-    \endentry
-    \entry{Cao2017}{unpublished}{}
-      \name{author}{3}{}{%
-        {{hash=dc534d1bc97dad0d5b45d2f6b882d09e}{%
-           family={Cao},
-           family_i={C\bibinitperiod},
-           given={Jianan},
-           given_i={J\bibinitperiod}}}%
-        {{hash=a3117b30f52bd5bbecefb9c3df516e59}{%
-           family={Farnham},
-           family_i={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           family_i={L\bibinitperiod},
-           given={Upmanu},
-           given_i={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \strng{fullhash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
-      \field{year}{2017}
     \endentry
     \entry{Cooper2017}{article}{}
       \name{author}{8}{}{%
@@ -644,7 +685,6 @@
       \field{abstract}{To protect recreational water users from waterborne pathogen exposure, it is crucial that waterways are monitored for the presence of harmful bacteria. In NYC, a citizen science campaign is monitoring waterways impacted by inputs of storm water and untreated sewage during periods of rainfall. However, the spatial and temporal scales over which the monitoring program can sample are constrained by cost and time, thus hindering the construction of databases that benefit both scientists and citizens. In this study, we first illustrate the scientific value of a citizen scientist monitoring campaign by using the data collected through the campaign to characterize the seasonal variability of sampled bacterial concentration as well as its response to antecedent rainfall. Second, we examine the efficacy of the HyServe Compact Dry ETC method, a lower cost and time-efficient alternative to the EPA-approved IDEXX Enterolert method for fecal indicator monitoring, through a paired sample comparison of IDEXX and HyServe (total of 424 paired samples). The HyServe and IDEXX methods return the same result for over 80{\%} of the samples with regard to whether a water sample is above or below the EPA's recreational water quality criteria for a single sample of 110 enterococci per 100mL. The HyServe method classified as unsafe 90{\%} of the 119 water samples that were classified as having unsafe enterococci concentrations by the more established IDEXX method. This study seeks to encourage other scientists to engage with citizen scientist communities and to also pursue the development of cost- and time-efficient methodologies to sample environmental variables that are not easily collected or analyzed in an automated manner.}
       \field{issn}{00489697}
       \field{journaltitle}{Science of The Total Environment}
-      \field{month}{12}
       \field{title}{{Citizen science-based water quality monitoring: Constructing a large database to characterize the impacts of combined sewer overflow in New York City}}
       \field{year}{2016}
       \verb{doi}
@@ -820,7 +860,6 @@
       \field{abstract}{Although the relationships between meteorological conditions and waterway bacterial contamination are being better understood, statistical models capable of fully leveraging these links have not been developed for highly urbanized settings. We present a hierarchical Bayesian regression model for predicting transient fecal indicator bacteria contamination episodes in urban waterways. Canals, creeks, and rivers of the New York City harbor system are used to examine the model. The model configuration facilitates the hierarchical structure of the underlying system with weekly observations nested within sampling sites, which in turn were nested inside of the harbor network. Models are compared using cross-validation and a variety of Bayesian and classical model fit statistics. The uncertainty of predicted enterococci concentration values is reflected by sampling from the posterior predictive distribution. Issuing predictions with the uncertainty reasonably reflected allows a water manager or a monitoring agency to issue warnings that better reflect the underlying risk of exposure. A model using only antecedent meteorological conditions is shown to correctly classify safe and unsafe levels of enterococci with good accuracy. The hierarchical Bayesian regression approach is most valuable where transient fecal indicator bacteria contamination is problematic and drainage network data are scarce.}
       \field{issn}{00431354}
       \field{journaltitle}{Water Research}
-      \field{month}{06}
       \field{title}{{Predictive statistical models linking antecedent meteorological conditions and waterway bacterial contamination in urban waterways}}
       \field{volume}{76}
       \field{year}{2015}
