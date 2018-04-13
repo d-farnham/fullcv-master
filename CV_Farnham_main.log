@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  12 APR 2018 20:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 APR 2018 11:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -10,8 +10,8 @@ Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
 ocument class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
@@ -1836,12 +1836,12 @@ ABD: EveryShipout initializing macros
 * \topmargin=-61.57373pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -2015,7 +2015,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 \makecvheaddetailsbox=\box64
-LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
+LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <9> not available
 (Font)              Font shape `T1/pplx/m/it' tried instead on input line 5.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-mvs.cfg
@@ -2031,26 +2031,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
  []
 
 (./education.tex
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10.95> not available
+LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
 (Font)              Font shape `T1/pplx/m/it' tried instead on input line 4.
-LaTeX Font Info:    Font shape `T1/pplx/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/it' tried instead on input line 6.
 ) (./experience.tex
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 3.
-) (./awards.tex [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 1540) in paragraph at lines 6--6
-[]|\T1/pplx/b/n/10.95 Graduate Re-search Fel-low-ship Pro-gram Hon-or-able Men-
-tion\T1/pplx/m/n/10.95 (+20) , \T1/pplx/m/it/10.95 (+20) Na-tional Sci-ence
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|\T1/pplx/b/n/10 Lead Mod-ule De-vel-oper: Hy-droViz Web Mod-ules: Tele-con-n
+ec-tions Mod-ule\T1/pplx/m/n/10 (+20) ,
  []
 
-)
+) (./prof_affils.tex) [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/pplx/m/sc/10.95'.
+(microtype)             in font `T1/pplx/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 21.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -2060,7 +2058,8 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [2] [3]
+
+[2]
 
 Package biblatex Warning: Type 'misc' not found on input line 24.
 
@@ -2099,7 +2098,7 @@ Package biblatex Warning: No driver for entry type 'panels'.
 Package biblatex Warning: No driver for entry type 'panels'.
 (biblatex)                Using fallback driver on input line 26.
 
-(./prof_affils.tex) (./community.tex) (./skills.tex
+(./awards.tex [3]) (./community.tex) (./skills.tex
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 3.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmss.fd
@@ -2109,28 +2108,17 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [4]) (./media.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]\T1/pplx/m/n/10 (+20) http://blogs.ei.columbia.edu/2017/09/20/what-the-u-s-mi
-litary-is-doing-about-climate-
- []
+) (./media.tex)
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]\T1/pplx/m/n/10 (+20) https://www.planetforward.org/2016/04/28/sustainable-ci
-ties-summit-tackles-the-
- []
-
-) 
 AED: lastpage setting LastPage
-[5]
+[4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (./CV_Farnham_main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `CV_Farnham_main.out' has not changed.
-(rerunfilecheck)             Checksum: 9939725FA6AFC241DD42C37D19BFD15A;2932.
+(rerunfilecheck)             Checksum: E7F9D82D9CD860F9EA308230D71727D7;2932.
 Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 \openout1 = `CV_Farnham_main.run.xml'.
 
@@ -2239,11 +2227,11 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete) 
 Here is how much of TeX's memory you used:
- 38000 strings out of 493014
- 724005 string characters out of 6133351
- 1110836 words of memory out of 5000000
- 40693 multiletter control sequences out of 15000+600000
- 76829 words of font info for 253 fonts, out of 8000000 for 9000
+ 38007 strings out of 493014
+ 723998 string characters out of 6133351
+ 1111755 words of memory out of 5000000
+ 40703 multiletter control sequences out of 15000+600000
+ 79507 words of font info for 255 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,12n,58p,10410b,1608s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/t
@@ -2254,13 +2242,12 @@ pl/fplrc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmssbx
 10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Farnham_main.pdf (5 pages, 152113 bytes).
+texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on CV_Farnham_main.pdf (4 pages, 140373 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
- 60 named destinations out of 1000 (max. 500000)
- 53397 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 54933 words of extra memory for PDF output out of 61914 (max. 10000000)
 
