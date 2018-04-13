@@ -45,6 +45,32 @@
       \field{labeltitlesource}{title}
       \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep for Applied Energy)}}
     \endentry
+    \entry{Doss-Gollin}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{03fae2b4e489958d7cc6516055ea402e}
+      \strng{fullhash}{03fae2b4e489958d7cc6516055ea402e}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Climate Change Adaptation: The Need to Address Quasi-Periodic and Secular Risk (in prep for Nature Climate Change)}}
+    \endentry
     \entry{Farnham_EPG}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
@@ -64,7 +90,7 @@
       \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Is anthropogenic warming changing the Southwest US's hydroclimate variability? (in prep)}}
+      \field{title}{{Is anthropogenic warming changing the Southwest US's hydroclimate variability? (in prep; journal undecided)}}
     \endentry
     \entry{Farnham_energy}{unpublished}{}
       \name{author}{2}{}{%
@@ -85,7 +111,7 @@
       \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Solar and wind renewable energy supply decadal variability and coupling to heating/cooling electricity demand during extreme temperature events (in prep)}}
+      \field{title}{{The impact of climate-induced demand-supply coupling and decadal variations on renewable energy reliability estimates (in prep; journal undecided)}}
     \endentry
     \entry{Farnham2017c}{unpublished}{}
       \name{author}{3}{}{%
@@ -111,7 +137,7 @@
       \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Long-term Trends, Decadal Variability, and Teleconnections associated with Sub-weekly Precipitation Extremes from a Multicentury Record (in prep)}}
+      \field{title}{{Long-term Trends, Decadal Variability, and Teleconnections associated with Sub-weekly Precipitation Extremes from a Multicentury Record (in prep for Advances in Water Resources)}}
     \endentry
     \entry{Hamidi2017}{unpublished}{}
       \name{author}{3}{}{%
@@ -139,43 +165,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Stochastic Environmental Research and Risk Assessment}
       \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (minor revision in Stochastic Environmental Research and Risk Assessment)}}
-    \endentry
-    \entry{Kim2017}{unpublished}{}
-      \name{author}{5}{}{%
-        {{hash=6e11d2f30b614c6da83fb0eefb87b55a}{%
-           family={Kim},
-           family_i={K\bibinitperiod},
-           given={Jin-Young},
-           given_i={J\bibinithyphendelim Y\bibinitperiod}}}%
-        {{hash=6a2dd8c9285ad7074ea6eb89f6d43922}{%
-           family={So},
-           family_i={S\bibinitperiod},
-           given={Byung-jin},
-           given_i={B\bibinithyphendelim j\bibinitperiod}}}%
-        {{hash=86d3ee305831d79388a8ab21ff1497fa}{%
-           family={Kwon},
-           family_i={K\bibinitperiod},
-           given={Hyuan-Han},
-           given_i={H\bibinithyphendelim H\bibinitperiod}}}%
-        {{hash=9f04c381f005697efd10b6251574fb11}{%
-           family={Farnham},
-           family_i={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           family_i={L\bibinitperiod},
-           given={Upmanu},
-           given_i={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{4216c2c89c8d5a6fae1ff4d4f62db7bb}
-      \strng{fullhash}{46f6d838dcb3bcb2ccd15525145c2326}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Hydrological Processes}
-      \field{title}{{Estimation of Return Period and Its Uncertainty for the 2013-2015 drought in the Han River watershed in South Korea (under review)}}
     \endentry
     \entry{Yuan2017}{unpublished}{}
       \name{author}{4}{}{%
@@ -206,7 +195,50 @@
       \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (in prep)}}
+      \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (in prep for Applied Energy)}}
+    \endentry
+    \entry{Faranda2018}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=5bba7091edb45c2ca15fc41df7d91216}{%
+           family={Faranda},
+           family_i={F\bibinitperiod},
+           given={Davide},
+           given_i={D\bibinitperiod}}}%
+        {{hash=f700a832b740186994e4531c6a35ed2a}{%
+           family={Messori},
+           family_i={M\bibinitperiod},
+           given={Gabriele},
+           given_i={G\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           family_i={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           family_i={L\bibinitperiod},
+           given={Upmanu},
+           given_i={U\bibinitperiod}}}%
+        {{hash=652f69fee0c2c2ab1be5e9f7c8315917}{%
+           family={Yiou},
+           family_i={Y\bibinitperiod},
+           given={Pascal},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e4c84817985c4a4726e0258960cfd3c}
+      \strng{fullhash}{13ee47b28033a09310e11c940692b6e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{European Geosciences Union General Assembly}
+      \field{title}{{Dynamics and Thermodynamics of weather extremes: a dynamical systems approach}}
+      \field{year}{2018}
     \endentry
     \entry{Farnham2018}{article}{}
       \name{author}{3}{}{%
@@ -1114,6 +1146,17 @@
       \field{labeltitlesource}{title}
       \field{title}{{NYC Urban Water Quality: Monitoring the Flow of CSOs with Citizen Scientists (with R. Gibson and D. Hsueh)}}
       \field{year}{2015}
+    \endentry
+    \entry{talk6}{talks}{}
+      \list{location}{2}{%
+        {New York City Department of Environmental Protect}%
+        {New York City Department of Health. New York, NY, USA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{title}{{Water Quality Monitoring: 2013 Citizens' Water Quality Testing Program}}
+      \field{year}{2014}
     \endentry
     \entry{talk5}{talks}{}
       \list{location}{1}{%
