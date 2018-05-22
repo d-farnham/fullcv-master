@@ -139,33 +139,6 @@
       \field{labeltitlesource}{title}
       \field{title}{{Long-term Trends, Decadal Variability, and Teleconnections associated with Sub-weekly Precipitation Extremes from a Multicentury Record (in prep for Advances in Water Resources)}}
     \endentry
-    \entry{Hamidi2017}{article}{}
-      \name{author}{3}{}{%
-        {{hash=1dfaa83b713dbcc5358aa231e59ca911}{%
-           family={Hamidi},
-           family_i={H\bibinitperiod},
-           given={Ali},
-           given_i={A\bibinitperiod}}}%
-        {{hash=9f04c381f005697efd10b6251574fb11}{%
-           family={Farnham},
-           family_i={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=be34ec1ce59b460a35781e13fd64adf6}{%
-           family={Khanbilvardi},
-           family_i={K\bibinitperiod},
-           given={Reza},
-           given_i={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{4147b11aebb9a32d94490ac4699efd55}
-      \strng{fullhash}{4147b11aebb9a32d94490ac4699efd55}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Stochastic Environmental Research and Risk Assessment}
-      \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (accepted)}}
-    \endentry
     \entry{Yuan2017}{unpublished}{}
       \name{author}{4}{}{%
         {{hash=ce5bd6e4a0f4976ce71f36577832d54a}{%
@@ -266,6 +239,34 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Resources Research}
       \field{title}{{Regional extreme precipitation events: robust inference from credibly simulated GCM variables (accepted)}}
+      \field{year}{2018}
+    \endentry
+    \entry{Hamidi2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1dfaa83b713dbcc5358aa231e59ca911}{%
+           family={Hamidi},
+           family_i={H\bibinitperiod},
+           given={Ali},
+           given_i={A\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           family_i={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=be34ec1ce59b460a35781e13fd64adf6}{%
+           family={Khanbilvardi},
+           family_i={K\bibinitperiod},
+           given={Reza},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4147b11aebb9a32d94490ac4699efd55}
+      \strng{fullhash}{4147b11aebb9a32d94490ac4699efd55}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Stochastic Environmental Research and Risk Assessment}
+      \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (accepted)}}
       \field{year}{2018}
     \endentry
     \entry{Cooper2017}{article}{}
