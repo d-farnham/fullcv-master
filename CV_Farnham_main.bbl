@@ -139,7 +139,7 @@
       \field{labeltitlesource}{title}
       \field{title}{{Long-term Trends, Decadal Variability, and Teleconnections associated with Sub-weekly Precipitation Extremes from a Multicentury Record (in prep for Advances in Water Resources)}}
     \endentry
-    \entry{Hamidi2017}{unpublished}{}
+    \entry{Hamidi2017}{article}{}
       \name{author}{3}{}{%
         {{hash=1dfaa83b713dbcc5358aa231e59ca911}{%
            family={Hamidi},
@@ -163,8 +163,8 @@
       \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Stochastic Environmental Research and Risk Assessment}
-      \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (minor revision in Stochastic Environmental Research and Risk Assessment)}}
+      \field{journaltitle}{Stochastic Environmental Research and Risk Assessment}
+      \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (accepted)}}
     \endentry
     \entry{Yuan2017}{unpublished}{}
       \name{author}{4}{}{%
