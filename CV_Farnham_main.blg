@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'CV_Farnham_main.blg'
-[41] biber-darwin:313> INFO - === Sat Dec 22, 2018, 16:54:34
+[38] biber-darwin:313> INFO - === Sat Mar  2, 2019, 17:18:01
 [62] Biber.pm:371> INFO - Reading 'CV_Farnham_main.bcf'
-[138] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[150] Biber.pm:3976> INFO - Processing section 0
-[160] Biber.pm:4136> INFO - Looking for bibtex format file 'MyPapers.bib' for section 0
-[164] bibtex.pm:1500> INFO - LaTeX decoding ...
-[214] bibtex.pm:1316> INFO - Found BibTeX data source 'MyPapers.bib'
-[474] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[474] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[474] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[474] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[523] bbl.pm:617> INFO - Writing 'CV_Farnham_main.bbl' with encoding 'UTF-8'
-[538] bbl.pm:720> INFO - Output to CV_Farnham_main.bbl
+[134] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[146] Biber.pm:3976> INFO - Processing section 0
+[157] Biber.pm:4136> INFO - Looking for bibtex format file 'MyPapers.bib' for section 0
+[160] bibtex.pm:1500> INFO - LaTeX decoding ...
+[208] bibtex.pm:1316> INFO - Found BibTeX data source 'MyPapers.bib'
+[443] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[443] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[443] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[443] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[486] bbl.pm:617> INFO - Writing 'CV_Farnham_main.bbl' with encoding 'UTF-8'
+[499] bbl.pm:720> INFO - Output to CV_Farnham_main.bbl

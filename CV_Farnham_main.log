@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  12 FEB 2019 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 MAR 2019 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV_Farnham_main.tex
+**CV_Farnham_main
 (./CV_Farnham_main.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
@@ -1773,7 +1773,7 @@ LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
 []|\T1/pplx/b/n/10 Lead Mod-ule De-vel-oper: Hy-droViz Web Mod-ules: Tele-con-n
 ec-tions Mod-ule\T1/pplx/m/n/10 (+20) ,
  []
@@ -1944,6 +1944,10 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 22 was incomplete)
 (\end occurred when \ifnum on line 22 was incomplete)
 (\end occurred when \ifnum on line 22 was incomplete)
+(\end occurred when \ifnum on line 22 was incomplete)
+(\end occurred when \ifnum on line 22 was incomplete)
+(\end occurred when \ifnum on line 22 was incomplete)
+(\end occurred when \ifnum on line 22 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
@@ -1966,12 +1970,12 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 21 was incomplete) 
 Here is how much of TeX's memory you used:
  39662 strings out of 492649
- 765562 string characters out of 6129622
- 1173323 words of memory out of 5000000
- 42708 multiletter control sequences out of 15000+600000
- 606572 words of font info for 269 fonts, out of 8000000 for 9000
+ 765675 string characters out of 6129622
+ 1173363 words of memory out of 5000000
+ 42711 multiletter control sequences out of 15000+600000
+ 606336 words of font info for 266 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,12n,58p,10414b,1804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,58p,10410b,1804s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/t
 exmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/font
 s/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/
@@ -1982,10 +1986,10 @@ sr/local/texlive/2018/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/
 texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive
 /2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Farnham_main.pdf (4 pages, 142409 bytes).
+Output written on CV_Farnham_main.pdf (4 pages, 142552 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 61 named destinations out of 1000 (max. 500000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 179 compressed objects within 2 object streams
+ 62 named destinations out of 1000 (max. 500000)
  54933 words of extra memory for PDF output out of 61914 (max. 10000000)
 
