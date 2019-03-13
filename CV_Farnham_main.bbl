@@ -49,6 +49,41 @@
       \field{labeltitlesource}{title}
       \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep)}}
     \endentry
+    \entry{Doss-Gollin2019}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d3a3170f5c1d55ce1e68ba902eccb573}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           familyi={L\bibinitperiod},
+           given={Upmanu},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{646a1dcb45c8f8863f44f76f9906a5e0}
+      \strng{fullhash}{d07e2288bb8b47fffa18c139d86980d6}
+      \strng{bibnamehash}{d07e2288bb8b47fffa18c139d86980d6}
+      \strng{authorbibnamehash}{d07e2288bb8b47fffa18c139d86980d6}
+      \strng{authornamehash}{646a1dcb45c8f8863f44f76f9906a5e0}
+      \strng{authorfullhash}{d07e2288bb8b47fffa18c139d86980d6}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Predictable and preventable: let us not blame climate change for our own failures (submitted)}}
+    \endentry
     \entry{Doss-Gollin}{unpublished}{}
       \name{author}{3}{}{%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
@@ -104,31 +139,6 @@
       \field{labeltitlesource}{title}
       \field{title}{{Is anthropogenic warming changing the Southwest US's hydroclimate variability? (in prep)}}
     \endentry
-    \entry{Farnham_energy}{unpublished}{}
-      \name{author}{2}{}{%
-        {{hash=9f04c381f005697efd10b6251574fb11}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{a5b635a14f741135a755ba2944120e02}
-      \strng{fullhash}{a5b635a14f741135a755ba2944120e02}
-      \strng{bibnamehash}{a5b635a14f741135a755ba2944120e02}
-      \strng{authorbibnamehash}{a5b635a14f741135a755ba2944120e02}
-      \strng{authornamehash}{a5b635a14f741135a755ba2944120e02}
-      \strng{authorfullhash}{a5b635a14f741135a755ba2944120e02}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{The impact of climate-induced demand-supply coupling and decadal variations on renewable energy reliability estimates (in prep)}}
-    \endentry
     \entry{Farnham2017c}{unpublished}{}
       \name{author}{3}{}{%
         {{hash=9f04c381f005697efd10b6251574fb11}{%
@@ -158,6 +168,36 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Long-term Trends, Decadal Variability, and Teleconnections associated with Sub-weekly Precipitation Extremes from a Multicentury Record (in prep)}}
+    \endentry
+    \entry{Farnham_energy}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6d30aa75d7958e18dc93d2fa97aca3e5}{%
+           family={Modi},
+           familyi={M\bibinitperiod},
+           given={VIjay},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           familyi={L\bibinitperiod},
+           given={Upmanu},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{8afe2e61b267aab34f8386c1a510c6c0}
+      \strng{fullhash}{8afe2e61b267aab34f8386c1a510c6c0}
+      \strng{bibnamehash}{8afe2e61b267aab34f8386c1a510c6c0}
+      \strng{authorbibnamehash}{8afe2e61b267aab34f8386c1a510c6c0}
+      \strng{authornamehash}{8afe2e61b267aab34f8386c1a510c6c0}
+      \strng{authorfullhash}{8afe2e61b267aab34f8386c1a510c6c0}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Decadal scale climate variation presents risks and opportunities for managing wind/solar power supply (submitted)}}
     \endentry
     \entry{HUI2019}{unpublished}{}
       \name{author}{5}{}{%
