@@ -19,36 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
-    \entry{Cao2017}{unpublished}{}
-      \name{author}{3}{}{%
-        {{hash=dc534d1bc97dad0d5b45d2f6b882d09e}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Jianan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=a3117b30f52bd5bbecefb9c3df516e59}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \strng{fullhash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \strng{bibnamehash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \strng{authorbibnamehash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \strng{authornamehash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \strng{authorfullhash}{ec4e982e3d35befa83a9dd746d848a8b}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Spatial-temporal wind field prediction by Artificial Neural Networks (in prep)}}
-    \endentry
     \entry{Doss-Gollin2019}{unpublished}{}
       \name{author}{4}{}{%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
@@ -85,7 +55,7 @@
       \field{title}{{Predictable and preventable: let us not blame climate change for our own failures (submitted)}}
     \endentry
     \entry{Doss-Gollin}{unpublished}{}
-      \name{author}{3}{}{%
+      \name{author}{4}{}{%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
            familyi={D\bibinithyphendelim G\bibinitperiod},
@@ -96,23 +66,28 @@
            familyi={F\bibinitperiod},
            given={David\bibnamedelima J.},
            giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
+           family={Steinschneider},
+           familyi={S\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
         {{hash=d8987e53f709ebc80726bd51f22a0860}{%
            family={Lall},
            familyi={L\bibinitperiod},
            given={Upmanu},
            giveni={U\bibinitperiod}}}%
       }
-      \strng{namehash}{03fae2b4e489958d7cc6516055ea402e}
-      \strng{fullhash}{03fae2b4e489958d7cc6516055ea402e}
-      \strng{bibnamehash}{03fae2b4e489958d7cc6516055ea402e}
-      \strng{authorbibnamehash}{03fae2b4e489958d7cc6516055ea402e}
-      \strng{authornamehash}{03fae2b4e489958d7cc6516055ea402e}
-      \strng{authorfullhash}{03fae2b4e489958d7cc6516055ea402e}
+      \strng{namehash}{646a1dcb45c8f8863f44f76f9906a5e0}
+      \strng{fullhash}{791bc06436f30aee117ae43de1bffc1a}
+      \strng{bibnamehash}{791bc06436f30aee117ae43de1bffc1a}
+      \strng{authorbibnamehash}{791bc06436f30aee117ae43de1bffc1a}
+      \strng{authornamehash}{646a1dcb45c8f8863f44f76f9906a5e0}
+      \strng{authorfullhash}{791bc06436f30aee117ae43de1bffc1a}
       \field{sortinit}{9}
       \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Climate Change Adaptation: The Need to Address Quasi-Periodic and Secular Risk (submitted)}}
+      \field{title}{{Robust Adaptation to Multi-Scale Climate Variability (in minor revision at \textit{Earth's Future})}}
     \endentry
     \entry{Farnham_EPG}{unpublished}{}
       \name{author}{2}{}{%
@@ -272,7 +247,7 @@
       \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (submitted)}}
+      \field{title}{{Simultaneous increasing electricity demand for heating and reliance on wind energy: Demand side management using heat pumps during extreme cold events (in minor revision at \textit{Energy})}}
     \endentry
     \entry{doss-gollin:2018}{inproceedings}{}
       \name{author}{4}{}{%
@@ -458,6 +433,49 @@
       \field{journaltitle}{Stochastic Environmental Research and Risk Assessment}
       \field{title}{{Uncertainty Analysis of Urban Sewer System using Spatial Simulation of Radar Rainfall Fields: New York City Case Study (accepted)}}
       \field{year}{2018}
+    \endentry
+    \entry{Cao2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=dc534d1bc97dad0d5b45d2f6b882d09e}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jianan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9f04c381f005697efd10b6251574fb11}{%
+           family={Farnham},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
+           family={Lall},
+           familyi={L\bibinitperiod},
+           given={Upmanu},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{08b6786fa7a21531d0adf7da56199bce}
+      \strng{fullhash}{08b6786fa7a21531d0adf7da56199bce}
+      \strng{bibnamehash}{08b6786fa7a21531d0adf7da56199bce}
+      \strng{authorbibnamehash}{08b6786fa7a21531d0adf7da56199bce}
+      \strng{authornamehash}{08b6786fa7a21531d0adf7da56199bce}
+      \strng{authorfullhash}{08b6786fa7a21531d0adf7da56199bce}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Spatial-temporal wind field prediction by Artificial Neural Networks}
+      \field{volume}{abs/1712.05293}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1712.05293
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1712.05293
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1712.05293
+      \endverb
     \endentry
     \entry{Cooper2017}{article}{}
       \name{author}{8}{}{%

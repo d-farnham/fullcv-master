@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'CV_Farnham_main.blg'
-[29] biber-darwin:313> INFO - === Wed Mar 13, 2019, 13:54:22
-[47] Biber.pm:371> INFO - Reading 'CV_Farnham_main.bcf'
-[115] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[125] Biber.pm:3976> INFO - Processing section 0
-[134] Biber.pm:4136> INFO - Looking for bibtex format file 'MyPapers.bib' for section 0
-[136] bibtex.pm:1500> INFO - LaTeX decoding ...
-[182] bibtex.pm:1316> INFO - Found BibTeX data source 'MyPapers.bib'
-[408] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[408] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[408] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[408] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[444] bbl.pm:617> INFO - Writing 'CV_Farnham_main.bbl' with encoding 'UTF-8'
-[458] bbl.pm:720> INFO - Output to CV_Farnham_main.bbl
+[31] biber-darwin:313> INFO - === Sat Mar 23, 2019, 15:50:02
+[49] Biber.pm:371> INFO - Reading 'CV_Farnham_main.bcf'
+[122] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[132] Biber.pm:3976> INFO - Processing section 0
+[142] Biber.pm:4136> INFO - Looking for bibtex format file 'MyPapers.bib' for section 0
+[144] bibtex.pm:1500> INFO - LaTeX decoding ...
+[195] bibtex.pm:1316> INFO - Found BibTeX data source 'MyPapers.bib'
+[446] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[446] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[446] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[446] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[486] bbl.pm:617> INFO - Writing 'CV_Farnham_main.bbl' with encoding 'UTF-8'
+[500] bbl.pm:720> INFO - Output to CV_Farnham_main.bbl
