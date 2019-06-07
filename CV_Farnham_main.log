@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  23 MAR 2019 15:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 JUN 2019 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV_Farnham_main.tex
+**CV_Farnham_main
 (./CV_Farnham_main.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
@@ -1852,15 +1852,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (./CV_Farnham_main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
-
-
-Package rerunfilecheck Warning: File `CV_Farnham_main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CV_Farnham_main.out':
-(rerunfilecheck)             Before: 3BDAE4C4EBA0D8FC9E75D2A0B2DD8F31;2985
-(rerunfilecheck)             After:  8B252B24B7D876640F8C79C020F230A9;3098.
+Package rerunfilecheck Info: File `CV_Farnham_main.out' has not changed.
+(rerunfilecheck)             Checksum: 8B252B24B7D876640F8C79C020F230A9;3098.
 Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 \openout1 = `CV_Farnham_main.run.xml'.
 
@@ -1958,9 +1951,9 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 22 was incomplete)
 (\end occurred when \ifnum on line 22 was incomplete)
 (\end occurred when \ifnum on line 22 was incomplete)
-(\end occurred when \ifnum on line 22 was incomplete)
-(\end occurred when \ifnum on line 22 was incomplete)
-(\end occurred when \ifnum on line 22 was incomplete)
+(\end occurred when \ifnum on line 21 was incomplete)
+(\end occurred when \ifnum on line 21 was incomplete)
+(\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete)
@@ -1982,13 +1975,13 @@ Package logreq Info: Writing requests to 'CV_Farnham_main.run.xml'.
 (\end occurred when \ifnum on line 21 was incomplete)
 (\end occurred when \ifnum on line 21 was incomplete) 
 Here is how much of TeX's memory you used:
- 39666 strings out of 492649
- 765851 string characters out of 6129622
+ 39665 strings out of 492649
+ 765921 string characters out of 6129622
  1173437 words of memory out of 5000000
- 42714 multiletter control sequences out of 15000+600000
- 606336 words of font info for 266 fonts, out of 8000000 for 9000
+ 42717 multiletter control sequences out of 15000+600000
+ 606113 words of font info for 263 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,12n,58p,10414b,1804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,58p,10410b,1804s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/t
 exmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/font
 s/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/
@@ -1999,10 +1992,10 @@ sr/local/texlive/2018/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/
 texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive
 /2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Farnham_main.pdf (4 pages, 142999 bytes).
+Output written on CV_Farnham_main.pdf (4 pages, 143584 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
+ 199 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
  63 named destinations out of 1000 (max. 500000)
  54933 words of extra memory for PDF output out of 61914 (max. 10000000)
 
