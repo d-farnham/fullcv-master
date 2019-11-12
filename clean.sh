@@ -1,0 +1,11 @@
+rm CV_Farnham_main.aux
+rm CV_Farnham_main.bbl
+rm CV_Farnham_main.blg
+rm CV_Farnham_main.run.xml
+rm CV_Farnham_main.bcf
+rm CV_Farnham_main.log
+rm CV_Farnham_main.synctex.gz
+rm CV_Farnham_main.out
+rm education.log
+rm experience.log
+rm texput.log
