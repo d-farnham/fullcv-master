@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  4 JAN 2021 11:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  4 JAN 2021 11:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2070,7 +2070,7 @@ sr/local/texlive/2018/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/
 texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive
 /2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Farnham_main.pdf (6 pages, 166739 bytes).
+Output written on CV_Farnham_main.pdf (6 pages, 166738 bytes).
 PDF statistics:
  252 PDF objects out of 1000 (max. 8388607)
  233 compressed objects within 3 object streams
