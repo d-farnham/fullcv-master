@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'CV_Farnham_main.blg'
+[37] biber-darwin:313> INFO - === Mon Nov 30, 2020, 17:18:13
+[60] Biber.pm:371> INFO - Reading 'CV_Farnham_main.bcf'
+[130] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[142] Biber.pm:3976> INFO - Processing section 0
+[153] Biber.pm:4136> INFO - Looking for bibtex format file 'MyPapers.bib' for section 0
+[160] bibtex.pm:1500> INFO - LaTeX decoding ...
+[235] bibtex.pm:1316> INFO - Found BibTeX data source 'MyPapers.bib'
+[449] Utils.pm:193> WARN - month field 'apr' in entry 'Doss-Gollin2020' is not an integer - this will probably not sort properly.
+[532] Utils.pm:193> WARN - month field 'nov' in entry 'Farnham2017d' is not an integer - this will probably not sort properly.
+[636] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[636] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[636] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[636] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[696] bbl.pm:617> INFO - Writing 'CV_Farnham_main.bbl' with encoding 'UTF-8'
+[717] bbl.pm:720> INFO - Output to CV_Farnham_main.bbl
+[717] Biber.pm:110> INFO - WARNINGS: 2
